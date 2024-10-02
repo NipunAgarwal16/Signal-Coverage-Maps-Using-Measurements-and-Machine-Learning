@@ -73,10 +73,3 @@ Output: fit_result
 ## Machine Learning
 
 see **UsingRegressionApp.md**
-
-
-
-## Final Report
-
-See **Signal Coverage Maps Using Measurements and Machine Learning.pdf**
-
